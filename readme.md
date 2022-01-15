@@ -1,0 +1,1 @@
+# Bootstrap kullanilarak basit bir site hazirlanilmistir.

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100;300;400;500&family=Luxurious+Roman&display=swap');
+
+/* Global Css */
+*{
+    font-family: 'Be Vietnam Pro', sans-serif;
+
+}
+.heading{
+    text-shadow: 1px 1px rgb(49, 49, 49);
+}
+.collapse{
+    justify-content: center;
+}
+.audio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.progress {
+    height: 2rem;
+}                 
